@@ -1,0 +1,84 @@
+{
+  "suggestions": [
+    {
+      "street_line": "7850 1 Mile Rd",
+      "secondary": "",
+      "city": "Lakeview",
+      "state": "MI",
+      "zipcode": "48850",
+      "entries": 0
+    },
+    {
+      "street_line": "7850 100th St SE",
+      "secondary": "",
+      "city": "Caledonia",
+      "state": "MI",
+      "zipcode": "49316",
+      "entries": 0
+    },
+    {
+      "street_line": "7850 105th St",
+      "secondary": "",
+      "city": "Milaca",
+      "state": "MN",
+      "zipcode": "56353",
+      "entries": 0
+    },
+    {
+      "street_line": "7850 112th Ave",
+      "secondary": "",
+      "city": "Holland",
+      "state": "MI",
+      "zipcode": "49424",
+      "entries": 0
+    },
+    {
+      "street_line": "7850 11th Avenue Trl",
+      "secondary": "",
+      "city": "Belle Plaine",
+      "state": "IA",
+      "zipcode": "52208",
+      "entries": 0
+    },
+    {
+      "street_line": "7850 121st Ave E",
+      "secondary": "",
+      "city": "Parrish",
+      "state": "FL",
+      "zipcode": "34219",
+      "entries": 0
+    },
+    {
+      "street_line": "7850 123rd Ave NE",
+      "secondary": "",
+      "city": "Edinburg",
+      "state": "ND",
+      "zipcode": "58227",
+      "entries": 0
+    },
+    {
+      "street_line": "78-501 Puuiki Rd",
+      "secondary": "",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "zipcode": "96740",
+      "entries": 0
+    },
+    {
+      "street_line": "78-502 Puuiki Rd",
+      "secondary": "",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "zipcode": "96740",
+      "entries": 0
+    },
+    {
+      "street_line": "78-505 Puuiki Rd",
+      "secondary": "",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "zipcode": "96740",
+      "entries": 0
+    }
+  ]
+}
