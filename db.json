@@ -1,83 +1,83 @@
 {
   "suggestions": [
     {
-      "street_line": "7850 1 Mile Rd",
+      "street_line": "7850 N Belt Line Rd",
       "secondary": "",
-      "city": "Lakeview",
-      "state": "MI",
-      "zipcode": "48850",
+      "city": "Irving",
+      "state": "TX",
+      "zipcode": "75063",
       "entries": 0
     },
     {
-      "street_line": "7850 100th St SE",
+      "street_line": "7850 E Beatrice St",
       "secondary": "",
-      "city": "Caledonia",
-      "state": "MI",
-      "zipcode": "49316",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zipcode": "85257",
       "entries": 0
     },
     {
-      "street_line": "7850 105th St",
+      "street_line": "7850 E Bellevue St",
       "secondary": "",
-      "city": "Milaca",
-      "state": "MN",
-      "zipcode": "56353",
+      "city": "Tucson",
+      "state": "AZ",
+      "zipcode": "85715",
       "entries": 0
     },
     {
-      "street_line": "7850 112th Ave",
+      "street_line": "7850 E Berner St",
       "secondary": "",
-      "city": "Holland",
-      "state": "MI",
-      "zipcode": "49424",
+      "city": "Long Beach",
+      "state": "CA",
+      "zipcode": "90808",
       "entries": 0
     },
     {
-      "street_line": "7850 11th Avenue Trl",
+      "street_line": "7850 S Becks Mill Rd",
       "secondary": "",
-      "city": "Belle Plaine",
-      "state": "IA",
-      "zipcode": "52208",
+      "city": "Salem",
+      "state": "IN",
+      "zipcode": "47167",
       "entries": 0
     },
     {
-      "street_line": "7850 121st Ave E",
+      "street_line": "7850 W Beaver St",
       "secondary": "",
-      "city": "Parrish",
+      "city": "Jacksonville",
       "state": "FL",
-      "zipcode": "34219",
+      "zipcode": "32220",
       "entries": 0
     },
     {
-      "street_line": "7850 123rd Ave NE",
+      "street_line": "7850 W Bellfort St",
       "secondary": "",
-      "city": "Edinburg",
-      "state": "ND",
-      "zipcode": "58227",
+      "city": "Houston",
+      "state": "TX",
+      "zipcode": "77071",
       "entries": 0
     },
     {
-      "street_line": "78-501 Puuiki Rd",
+      "street_line": "7850 W Belmont Ave",
+      "secondary": "Apt",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60634",
+      "entries": 3
+    },
+    {
+      "street_line": "7850 W Belmont Ave",
       "secondary": "",
-      "city": "Kailua Kona",
-      "state": "HI",
-      "zipcode": "96740",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60634",
       "entries": 0
     },
     {
-      "street_line": "78-502 Puuiki Rd",
+      "street_line": "7850 W Beryl Ave",
       "secondary": "",
-      "city": "Kailua Kona",
-      "state": "HI",
-      "zipcode": "96740",
-      "entries": 0
-    },
-    {
-      "street_line": "78-505 Puuiki Rd",
-      "secondary": "",
-      "city": "Kailua Kona",
-      "state": "HI",
-      "zipcode": "96740",
+      "city": "Peoria",
+      "state": "AZ",
+      "zipcode": "85345",
       "entries": 0
     }
   ]
